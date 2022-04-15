@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Olá 👋
 
-Eu sou Rafael Vieira de Oliveira, Engenheiro Civil com grande gosto pelo mundo da programação. Vejo a programação como uma forma de otimizar e alavancar os processos da área em que trabalho.🚀
+Eu sou Rafael Vieira de Oliveira, Engenheiro Civil com grande gosto pelo mundo da programação. Vejo a programação como uma forma de otimizar e alavancar os processos da área em que trabalho e pesquiso.🚀
 
 ### Eu me comunico em:
 
