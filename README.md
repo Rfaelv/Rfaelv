@@ -42,9 +42,10 @@ Eu sou Rafael Vieira de Oliveira, Engenheiro Civil com grande gosto pelo mundo d
 
 ### Meus principais projetos:
 
-![InstabiliTool](https://rfaelv.github.io/InstabiliTool/)
+[![](https://img.shields.io/static/v1?label&logo=&message=InstabiliTool&style=for-the-badge&color=green)](https://rfaelv.github.io/InstabiliTool/)
 
-![Dinpass](https://rfaelv.github.io/Dinpass/)
+[![](https://img.shields.io/static/v1?label&logo=&message=Dinpass&style=for-the-badge&color=green)](https://rfaelv.github.io/Dinpass/)
+
 ### Contato:
 
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)](www.linkedin.com/in/rafael-vieira-87a20419a)
