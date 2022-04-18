@@ -50,5 +50,5 @@ Eu sou Rafael Vieira de Oliveira, Engenheiro Civil com grande gosto pelo mundo d
 
 ### Contato:
 
-[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)](www.linkedin.com/in/rafael-vieira-87a20419a)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)](https://www.linkedin.com/in/rafael-vieira-87a20419a)
 
